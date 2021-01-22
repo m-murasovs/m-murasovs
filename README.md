@@ -1,6 +1,6 @@
 ### Hi there, I'm Misha 👋
 
-- 🔭 I’m currently working on: bulking Apify Docs and website
+- 🔭 I’m currently working on: the Apify website and documentation
 - 🌱 I’m currently learning: UI design
 - 📫 How to reach me: smoke signals
 
