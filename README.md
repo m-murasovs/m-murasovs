@@ -1,7 +1,7 @@
 ### Hi there, I'm Misha 👋
 
 - 🔭 I’m currently working on: the Apify website and documentation
-- 🌱 I’m currently learning: UI design
+- 🌱 I’m currently learning: React performance / advanced React patterns / and TypeScript
 - 📫 How to reach me: smoke signals
 
 
